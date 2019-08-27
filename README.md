@@ -1,4 +1,5 @@
 # Bootstrap-Crash-Course
 
+
 # What I learnt
-Use of the Bootstrapncomponents and utilities to come up with responsive websites and designs.
+Use of the Bootstrap components, layout and utilities to create responsive and appealing designs.
